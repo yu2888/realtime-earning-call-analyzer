@@ -8,18 +8,25 @@ the live transcript continues in the original terminal.
 
 ## Setup
 
-Install Python 3.14 and [uv](https://docs.astral.sh/uv/), then install the project dependencies:
+Install [uv](https://docs.astral.sh/uv/), then install the project dependencies:
 
 ```powershell
 uv sync
 ```
+
+## Demo
+
+
+https://github.com/user-attachments/assets/6fb955b0-f966-4b15-bd44-c76956c2610c
+
+
 
 ## Run
 
 Start the analyzer, then play the earnings call through the default speaker:
 
 ```powershell
-uv run python stream_system_audio.py
+uv run stream_system_audio.py
 ```
 
 Press `Ctrl+C` to stop analysis.
