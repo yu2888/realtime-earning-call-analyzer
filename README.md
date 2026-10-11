@@ -16,8 +16,9 @@ uv sync
 
 ## Demo
 
+https://github.com/user-attachments/assets/8c6e3ad5-ecc8-48f7-aefc-4c11f464de04
 
-https://github.com/user-attachments/assets/6fb955b0-f966-4b15-bd44-c76956c2610c
+
 
 
 
